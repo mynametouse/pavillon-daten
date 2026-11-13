@@ -1,91 +1,104 @@
 {
  "schema": 1,
- "made": "2026-11-13T02:58:48Z",
+ "made": "2026-11-13T09:23:16Z",
  "base": "https://mynametouse.github.io/pavillon-daten/suhl/",
  "products": {
   "b": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "b/v1/",
-   "index": "b/v1/index.json",
-   "made": "2026-11-13T01:57:59Z",
-   "area": "probe",
-   "tiles": 11,
-   "bytes": 78416,
+   "path": "b/v2/",
+   "index": "b/v2/index.json",
+   "made": "2026-11-13T08:05:23Z",
+   "area": "stadt",
+   "tiles": 416,
+   "bytes": 5940560,
    "based_on": {}
   },
   "boden": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "boden/v1/",
-   "index": "boden/v1/meta.json",
-   "made": "2026-11-13T01:42:51Z",
-   "area": "probe",
-   "tiles": 262,
-   "bytes": 7352122,
+   "path": "boden/v2/",
+   "index": "boden/v2/meta.json",
+   "made": "2026-11-13T07:55:50Z",
+   "area": "stadt",
+   "tiles": 12698,
+   "bytes": 290463210,
    "based_on": {
-    "s": 1
+    "s": 2
+   }
+  },
+  "d": {
+   "version": 2,
+   "schema": 1,
+   "path": "d/v2/",
+   "index": "d/v2/index.json",
+   "made": "2026-11-13T09:04:58Z",
+   "area": "stadt",
+   "tiles": 396,
+   "bytes": 8536841,
+   "based_on": {
+    "g": 2
    }
   },
   "g": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "g/v1/",
-   "index": "g/v1/index.json",
-   "made": "2026-11-13T01:59:27Z",
-   "area": "probe",
-   "tiles": 11,
-   "bytes": 2963501,
+   "path": "g/v2/",
+   "index": "g/v2/index.json",
+   "made": "2026-11-13T08:21:46Z",
+   "area": "stadt",
+   "tiles": 397,
+   "bytes": 34971547,
    "based_on": {
-    "boden": 1
+    "boden": 2
    }
   },
   "gr": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "gr/v1/",
-   "index": "gr/v1/index.json",
-   "made": "2026-11-13T01:58:04Z",
-   "area": "probe",
-   "tiles": 11,
-   "bytes": 30752,
+   "path": "gr/v2/",
+   "index": "gr/v2/index.json",
+   "made": "2026-11-13T08:06:22Z",
+   "area": "stadt",
+   "tiles": 1013,
+   "bytes": 662056,
    "based_on": {}
   },
   "m": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "m/v1/",
-   "index": "m/v1/index.json",
-   "made": "2026-11-13T01:44:06Z",
-   "area": "probe",
-   "tiles": 11,
-   "bytes": 22460,
+   "path": "m/v2/",
+   "index": "m/v2/index.json",
+   "made": "2026-11-13T02:52:21Z",
+   "area": "stadt",
+   "tiles": 1129,
+   "bytes": 940040,
    "based_on": {
-    "s": 1
+    "s": 2
    }
   },
   "s": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "s/v1/",
-   "index": "s/v1/index.json",
-   "made": "2026-11-13T01:44:02Z",
-   "area": "probe",
-   "tiles": 11,
-   "bytes": 226174,
+   "path": "s/v2/",
+   "index": "s/v2/index.json",
+   "made": "2026-11-13T02:51:50Z",
+   "area": "stadt",
+   "tiles": 1129,
+   "bytes": 4311652,
    "based_on": {
-    "boden": 1
+    "boden": 2
    }
   },
   "w": {
-   "version": 1,
+   "version": 2,
    "schema": 1,
-   "path": "w/v1/",
-   "index": "w/v1/index.json",
-   "made": "2026-11-13T01:58:04Z",
-   "area": "probe",
-   "tiles": 3,
-   "bytes": 7200,
+   "path": "w/v2/",
+   "index": "w/v2/index.json",
+   "made": "2026-11-13T08:06:17Z",
+   "area": "stadt",
+   "tiles": 959,
+   "bytes": 2301600,
    "based_on": {}
   }
  }
