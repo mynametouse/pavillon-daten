@@ -1,0 +1,11 @@
+{
+ "was": "Probe des Veröffentlichens der Suhl-Daten (Aktion suhl-publish) – diese Datei beweist nur, dass der Weg funktioniert",
+ "zeit": "2026-11-13T00:43:31Z",
+ "lauf": "43339309234",
+ "versuch": "1",
+ "commit": "16d5bf97478b6bf680419d3161a33fbd25ae730a",
+ "zweig": "suhl/daten",
+ "quelle": "mynametouse/pavillon-ratscher",
+ "workflow": "Suhl – Datenhaus (Probe)",
+ "lauf_url": "https://github.com/mynametouse/pavillon-ratscher/actions/runs/43339309234"
+}
